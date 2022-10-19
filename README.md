@@ -1,5 +1,5 @@
 # dockerAssignment
-Assignment task solutions can be found [here](https://github.com/nav52/dockerAssignment/docs/Assignment2-Docker.md)
+Assignment task solutions can be found [here](https://github.com/nav52/dockerAssignment/blob/main/docs/Assignment2-Docker.md)
 ## FastAPI hello world application.
 
 ### Running instructions
